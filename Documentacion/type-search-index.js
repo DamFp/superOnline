@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"subastas","l":"Jugador"},{"p":"subastas","l":"JugadorEstandar"},{"p":"subastas","l":"JugadorVIP"},{"p":"subastas","l":"Puja"},{"p":"subastas","l":"Subasta"},{"p":"subastas","l":"SubastaAbierta"},{"p":"subastas","l":"SubastaCiega"},{"p":"subastas","l":"Test"}];updateSearchResults();
